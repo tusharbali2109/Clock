@@ -1,0 +1,15 @@
+
+body{
+    height: 50vh;
+     display:block;
+justify-content: center;
+align-items: center;
+}
+.Box{
+margin: auto;
+width: 900px;
+height: 600px;
+padding: 40px;
+border: 5px solid gray;
+
+}
